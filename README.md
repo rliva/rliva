@@ -1,19 +1,19 @@
 # Hi there 👋
 
-I am Raymond Gevorkian Livaskani, an experienced software engineer focused on developing efficient and reliable software solutions.
+I am Raymond Livaskani, an experienced software engineer focused on developing efficient and reliable software solutions.
 
 ## GitHub Stats
 
-![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondgevorkian&show_icons=true&theme=radical)
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlivan&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondgevorkian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rliva&layout=compact)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raymondgevorkian&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rliva&theme=dark)
 
 ## Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=raymondgevorkian&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=rliva&theme=onedark)
