@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**rliva/rliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Raymond Gevorkian Livaskani, an experienced software engineer focused on developing efficient and reliable software solutions.
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondgevorkian&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondgevorkian&layout=compact)
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raymondgevorkian&theme=dark)
+
+## Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=raymondgevorkian&theme=onedark)
