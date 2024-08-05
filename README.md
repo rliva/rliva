@@ -6,7 +6,6 @@ I'm **Raymond Livaskani**, an experienced software engineer focused on developin
 
 - 💬 Ask me about software development, automation, and testing.
 - 📫 How to reach me: [livaskaniray@gmail.com](mailto:livaskaniray@gmail.com)
-- 
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
