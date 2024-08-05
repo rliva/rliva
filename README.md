@@ -1,16 +1,15 @@
-# Hi there 👋
+# Welcome to my GitHub Profile!
 
-I am Raymond Livaskani, an experienced software engineer focused on developing efficient and reliable software solutions.
+I'm **Raymond Livaskani**, a passionate software engineer with a focus on creating efficient and scalable solutions.
 
-## GitHub Stats
+## GitHub Summary
 
-![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlivan&show_icons=true&theme=radical)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rliva&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rliva&theme=github_dark)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rliva&theme=github_dark)
+![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rliva&theme=github_dark)
 
-## Top Languages
+## Connect with Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rliva&layout=compact)
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rliva&theme=dark)
+- [LinkedIn](https://www.linkedin.com/in/raymond-livaskani/)
 
