@@ -14,6 +14,3 @@ I am Raymond Livaskani, an experienced software engineer focused on developing e
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rliva&theme=dark)
 
-## Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rliva&theme=onedark)
