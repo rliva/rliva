@@ -1,15 +1,21 @@
-# Welcome to my GitHub Profile!
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/rliva">
+      <img src="https://github-readme-stats.vercel.app/api/?username=rliva&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+      <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/rliva">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rliva&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
 
-I'm **Raymond Livaskani**, a passionate software engineer with a focus on creating efficient and scalable solutions.
-
-## GitHub Summary
-
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rliva&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rliva&theme=github_dark)
-![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rliva&theme=github_dark)
-![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rliva&theme=github_dark)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/raymond-livaskani/)
-
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/rliva">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rliva&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+    </td>
+  </tr>
+</p>
