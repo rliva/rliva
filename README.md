@@ -2,9 +2,8 @@
 
 I'm **Raymond Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.
 
-## About Me 🌊
+## Contact
 
-- 💬 Ask me about software development, automation, and testing.
 - 📫 How to reach me: [livaskaniray@gmail.com](mailto:livaskaniray@gmail.com)
 <p align="center">
   <tr>
