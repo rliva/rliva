@@ -2,7 +2,7 @@
 
 I'm **Raymond Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.
 
-## Contact -
+## Contact - Feel free to reach out anytime!
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:livaskaniray@gmail.com) livaskaniray@gmail.com
 <p align="center">
