@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm **Raymond G. Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.         
+I'm **Raymond G. Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.          
 
 ## Contact - Feel free to reach out anytime!     
   
