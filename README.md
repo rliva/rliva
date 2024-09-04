@@ -2,7 +2,7 @@
 
 I'm **Raymond G. Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.              
    
-## Contact - Feel free to reach out anytime!     
+## Contact - Feel free to reach out anytime!      
   
 - 📫 Gmail: [livaskaniray@gmail.com](mailto:livaskaniray@gmail.com)  
 <p align="center">   
