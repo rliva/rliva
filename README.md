@@ -4,7 +4,7 @@ I'm **Raymond G. Livaskani**, an experienced software engineer focused on develo
       
 ## Contact - Feel free to reach out anytime!       
      
-- 📫 Gmail: [livaskaniray@gmail.com](mailto:livaskaniray@gmail.com)   
+- 📫 Gmail: [livaskaniray@gmail.com](mailto:livaskaniray@gmail.com)    
 <p align="center">   
   <tr>
     <td align="center" style="padding=0;width=50%;">
