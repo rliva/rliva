@@ -1,4 +1,4 @@
-# Hello there! 👋 
+# Hello there! 👋  
 
 I'm **Raymond G. Livaskani**, an experienced software engineer focused on developing efficient and reliable software solutions.                
       
